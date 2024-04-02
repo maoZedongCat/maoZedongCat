@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @maoZedongCat
+- 👀 I’m interested in NextJS
+- 🌱 I’m currently learning TypeScript
+- 💞️ I’m looking to collaborate on Hackathons
